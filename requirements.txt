@@ -1,0 +1,16 @@
+fastapi 
+
+uvicorn 
+
+openai 
+
+python-multipart 
+
+psycopg2 
+
+pydantic
+
+
+
+python-dotenv
+google-generativeai
